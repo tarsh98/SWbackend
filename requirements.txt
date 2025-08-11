@@ -4,4 +4,5 @@ python-dotenv
 openai
 pdfplumber
 pandas
+streamlit
 python-multipart
